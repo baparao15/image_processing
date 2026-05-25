@@ -264,6 +264,4 @@ If you need a short explanation in presentation form:
 - Part A is substantially harder than Part B because of dense scenes and large count variation.
 - The explainer notebooks were added to make the model flow easier to present image-by-image.
 - This repository is notebook-centric, so the main implementation lives inside the notebooks rather than a packaged Python module.
-#   i m a g e _ p r o c e s s i n g  
- #   i m a g e _ p r o c e s s i n g  
- 
+#
